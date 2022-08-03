@@ -58,11 +58,11 @@ global.callblock === "false" // call block "true" / "false" (CALL ගන්න �
 
 global.owner = ['+94783745231']
 global.ownertag = '+94783745231' //ur tag number
-global.botname = '🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁' //ur bot name
+global.botname = '🐶🥀NIMSARA⃢ ANUHAS᭄🥀🐶' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁" // sticker author
+global.author = "🐶🥀NIMSARA⃢ ANUHAS᭄🥀🐶" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ 🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁]' //In list menu
+global.footer = '[ ◉ 🐶🥀NIMSARA⃢ ANUHAS᭄🥀🐶]' //In list menu
 
 global.button = '☰YOuTUBE☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtube.com/channel/UC8Lgyty47CU-uORJpsFV70Q' //Change Your Button's URL
