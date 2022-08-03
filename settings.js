@@ -12,7 +12,21 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (👹 ⃢අනුවාහ්⃢BOT-𝗕𝗢𝗧 👹
+
+🍁{sender} Hey There! I'm Online 24 × 7 🍁
+
+🍁 BOT RUN TIME : {uptime} 🍁
+
+🍁 Multi Device Bot In WhatsApp 🍁
+
+🍁 My name : ❰ ⃢අනුවාහ්⃢BOT👨‍💻✊😜❱ 🍁
+
+🍁 Developer: ❰ 👹 Anuhas nimsara 👹 ❱ 🍁
+
+🍁 Contact me : ❰ wa.me/94783745231❱ 🍁
+
+🍁Thank You For Using ❰ 🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁 ❱ )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +43,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+94783745231'] //ur owner number
+global.ownername = "Anuhas Nimsara" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -42,19 +56,19 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94783745231']
+global.ownertag = '+94783745231' //ur tag number
+global.botname = '🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ ◉ 🍁🔱 ⃢අනුවාහ්⃢BOT🔱🍁]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰YOuTUBE☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UC8Lgyty47CU-uORJpsFV70Q' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94783745241'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
